@@ -1,0 +1,7 @@
+- Bootstrap 4.4.1
+- Jquery nice select 1.1.0
+- Owl Carousel 2 2.3.4
+- Slick Nav
+- Elegant Font
+- Sass
+- Font Awesome 4.7.0
